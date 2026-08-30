@@ -230,7 +230,7 @@ The lab follows a structured troubleshooting process:
 
 ### Management SVI
 
-![Management SVI](screenshots/05-management-svi.png)
+![Management SVI](screenshots/management-svi.png)
 
 ### Successful Connectivity
 
