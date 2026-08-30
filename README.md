@@ -234,7 +234,7 @@ The lab follows a structured troubleshooting process:
 
 ### Successful Connectivity
 
-![Successful Ping](screenshots/06-successful-ping.png)
+![Successful Ping](screenshots/connectivity-ping.png)
 
 ### SSH Remote Administration
 
