@@ -218,7 +218,7 @@ The lab follows a structured troubleshooting process:
 
 ### Switch Hardware and IOS
 
-![Switch Information](screenshots/02-show-version.png)
+![Switch Information](screenshots/show-version.png)
 
 ### VLAN Configuration
 
