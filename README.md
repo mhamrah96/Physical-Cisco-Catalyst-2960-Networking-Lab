@@ -238,7 +238,7 @@ The lab follows a structured troubleshooting process:
 
 ### SSH Remote Administration
 
-![SSH Login](screenshots/07-ssh-login.png)
+![SSH Login](screenshots/ssh-login.png)
 
 ### MAC Address Learning
 
