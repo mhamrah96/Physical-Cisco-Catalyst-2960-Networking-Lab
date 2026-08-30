@@ -1,4 +1,4 @@
-# Physical Cisco Catalyst 2960 Networking Lab
+# Physical Cisco Catalyst 2960 24TT-L Networking Lab
 
 ## Overview
 
@@ -20,7 +20,7 @@ The lab was built from a factory-reset configuration and progressively configure
 
 ## Hardware
 
-* Cisco Catalyst 2960
+* Cisco Catalyst 2960 24TT-L
 * Windows PC
 * Cisco console cable
 * Ethernet cable
@@ -232,9 +232,6 @@ The lab follows a structured troubleshooting process:
 
 ![Management SVI](screenshots/management-svi.png)
 
-### Troubleshooting
-
-![Troubleshooting](screenshots/troubleshooting.png)
 
 ### Successful Connectivity
 
@@ -247,6 +244,10 @@ The lab follows a structured troubleshooting process:
 ### MAC Address Learning
 
 ![MAC Address Table](screenshots/mac-table.png)
+
+### Troubleshooting
+
+![Troubleshooting](screenshots/troubleshooting.png)
 
 
 ## Lessons Learned
