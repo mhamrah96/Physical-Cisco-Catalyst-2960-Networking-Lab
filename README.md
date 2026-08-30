@@ -242,7 +242,7 @@ The lab follows a structured troubleshooting process:
 
 ### MAC Address Learning
 
-![MAC Address Table](screenshots/08-mac-address-table.png)
+![MAC Address Table](screenshots/mac-table.png)
 
 ### Troubleshooting
 
