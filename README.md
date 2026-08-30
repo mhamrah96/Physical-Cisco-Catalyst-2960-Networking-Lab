@@ -222,7 +222,7 @@ The lab follows a structured troubleshooting process:
 
 ### VLAN Configuration
 
-![VLAN Configuration](screenshots/03-vlan-configuration.png)
+![VLAN Configuration](screenshots/show-vlan.png)
 
 ### Port Assignments
 
