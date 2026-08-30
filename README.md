@@ -246,7 +246,7 @@ The lab follows a structured troubleshooting process:
 
 ### Troubleshooting
 
-![Troubleshooting](screenshots/09-troubleshooting.png)
+![Troubleshooting](screenshots/troubleshooting.png)
 
 ## Lessons Learned
 
