@@ -82,7 +82,7 @@ Five VLANs were created to simulate separate network segments:
 VLAN 10 - ADMIN
 VLAN 20 - USERS
 VLAN 30 - SERVERS
-VLAN 40 - IT
+VLAN 40 - GUESTS
 VLAN 99 - MANAGEMENT
 ```
 
