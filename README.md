@@ -226,7 +226,7 @@ The lab follows a structured troubleshooting process:
 
 ### Port Assignments
 
-![Port Assignments](screenshots/04-port-assignments.png)
+![Port Assignments](screenshots/port-assignments.png)
 
 ### Management SVI
 
