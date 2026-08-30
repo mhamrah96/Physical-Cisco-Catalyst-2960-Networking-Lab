@@ -32,7 +32,7 @@ The lab was built from a factory-reset configuration and progressively configure
 |   10 | ADMIN      | Administrative devices | Fa0/1–7   |
 |   20 | USERS      | End-user devices       | Fa0/8–14  |
 |   30 | SERVERS    | Server devices         | Fa0/15–20 |
-|   40 | IT         | IT/network devices     | Fa0/21–23 |
+|   40 | GUESTS     | IT/network devices     | Fa0/21–23 |
 |   99 | MANAGEMENT | Switch management      | Fa0/24    |
 
 ### Management Addressing
