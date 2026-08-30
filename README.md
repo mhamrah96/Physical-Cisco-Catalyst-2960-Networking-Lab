@@ -214,7 +214,7 @@ The lab follows a structured troubleshooting process:
 
 ### Physical Lab Setup
 
-![Physical Lab Setup](screenshots/01-hardware-setup.png)
+![Physical Lab Setup](screenshots/Setup.png)
 
 ### Switch Hardware and IOS
 
