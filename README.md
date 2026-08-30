@@ -232,6 +232,10 @@ The lab follows a structured troubleshooting process:
 
 ![Management SVI](screenshots/management-svi.png)
 
+### Troubleshooting
+
+![Troubleshooting](screenshots/troubleshooting.png)
+
 ### Successful Connectivity
 
 ![Successful Ping](screenshots/connectivity-ping.png)
@@ -244,9 +248,6 @@ The lab follows a structured troubleshooting process:
 
 ![MAC Address Table](screenshots/mac-table.png)
 
-### Troubleshooting
-
-![Troubleshooting](screenshots/troubleshooting.png)
 
 ## Lessons Learned
 
